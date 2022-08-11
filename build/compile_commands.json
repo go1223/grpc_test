@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/interface/grpc_gen/message.grpc.pb.cc.o -c /root/test/interface/grpc_gen/message.grpc.pb.cc",
+  "file": "/root/test/interface/grpc_gen/message.grpc.pb.cc"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/interface/grpc_gen/message.pb.cc.o -c /root/test/interface/grpc_gen/message.pb.cc",
+  "file": "/root/test/interface/grpc_gen/message.pb.cc"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/interface/client/client.cpp.o -c /root/test/interface/client/client.cpp",
+  "file": "/root/test/interface/client/client.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/interface/client/channel.cpp.o -c /root/test/interface/client/channel.cpp",
+  "file": "/root/test/interface/client/channel.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/interface/client/message/messageImpl.cpp.o -c /root/test/interface/client/message/messageImpl.cpp",
+  "file": "/root/test/interface/client/message/messageImpl.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/client.dir/src/client.cpp.o -c /root/test/src/client.cpp",
+  "file": "/root/test/src/client.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/server.dir/interface/grpc_gen/message.grpc.pb.cc.o -c /root/test/interface/grpc_gen/message.grpc.pb.cc",
+  "file": "/root/test/interface/grpc_gen/message.grpc.pb.cc"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/server.dir/interface/grpc_gen/message.pb.cc.o -c /root/test/interface/grpc_gen/message.pb.cc",
+  "file": "/root/test/interface/grpc_gen/message.pb.cc"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/server.dir/interface/server/server.cpp.o -c /root/test/interface/server/server.cpp",
+  "file": "/root/test/interface/server/server.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/server.dir/interface/server/message/message.cpp.o -c /root/test/interface/server/message/message.cpp",
+  "file": "/root/test/interface/server/message/message.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++   -I/root/test/include -I/root/test/interface -I/root/test/interface/server -I/root/test/interface/client -I/root/test/interface/grpc_gen -I/root/test/third_party/grpc/include  -g   -ddebug -d_debug -std=c++11 -o CMakeFiles/server.dir/src/server.cpp.o -c /root/test/src/server.cpp",
+  "file": "/root/test/src/server.cpp"
+}
+]

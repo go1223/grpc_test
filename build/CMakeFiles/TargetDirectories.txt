@@ -1,0 +1,4 @@
+/root/test/build/CMakeFiles/rebuild_cache.dir
+/root/test/build/CMakeFiles/edit_cache.dir
+/root/test/build/CMakeFiles/client.dir
+/root/test/build/CMakeFiles/server.dir
